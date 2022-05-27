@@ -29,7 +29,7 @@
 	[
 		{
 			"speaker" : "neptune",
-			"dialog" : "See now, how men lay blame upon us gods for what is after all nothing but their own folly.",
+			"dialog" : "Mercury told him this in all good will but he would not listen, and now he has paid for everything in full.",
 			"newSpeaker" : "true"
 		},
 		{
@@ -42,8 +42,9 @@
 			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "minerva",
-			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends."
+			"speaker" : "homer",
+			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "jove",
@@ -54,6 +55,11 @@
 			"speaker" : "minerva",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
 			"newSpeaker" : "true"
+		}, 
+		{
+			"speaker": "homer",
+			"dialog": "A maid servant then brought them water in a beautiful golden ewer and poured it into a silver basin for them to wash their hands, and she drew a clean table beside them.",
+			"newSpeaker": "true"
 		}
 	]
 ]

@@ -1,0 +1,75 @@
+[
+	[
+		{
+			"speaker": "duncan",
+			"dialog": "What bloody man is that? He can report, As seemeth by his plight, of the revolt The newest state.",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "malcolm",
+			"dialog": "This is the sergeant Who like a good and hardy soldier fought 'Gainst my captivity. Hail, brave friend! Say to the king the knowledge of the broil As thou didst leave it.",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "Doubtful it stood; As two spent swimmers, that do cling together And choke their art. The merciless Macdonwald-- Worthy to be a rebel, for to that The multiplying villanies of nature Do swarm upon him--from the western isles Of kerns and gallowglasses is supplied;",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "And fortune, on his damned quarrel smiling, Show'd like a rebel's whore: but all's too weak: For brave Macbeth--well he deserves that name-- Disdaining fortune, with his brandish'd steel, Which smoked with bloody execution, Like valour's minion carved out his passage"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "Till he faced the slave; Which ne'er shook hands, nor bade farewell to him, Till he unseam'd him from the nave to the chaps, And fix'd his head upon our battlements."
+		},
+		{
+			"speaker": "duncan",
+			"dialog": "O valiant cousin! worthy gentleman!",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "As whence the sun 'gins his reflection Shipwrecking storms and direful thunders break, So from that spring whence comfort seem'd to come Discomfort swells. Mark, king of Scotland, mark: No sooner justice had with valour arm'd",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "Compell'd these skipping kerns to trust their heels, But the Norweyan lord surveying vantage, With furbish'd arms and new supplies of men Began a fresh assault."
+		},
+		{
+			"speaker": "duncan",
+			"dialog": "Dismay'd not this Our captains, Macbeth and Banquo?",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "Yes; As sparrows eagles, or the hare the lion. If I say sooth, I must report they were As cannons overcharged with double cracks, so they Doubly redoubled strokes upon the foe:",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "sergeant",
+			"dialog": "Except they meant to bathe in reeking wounds, Or memorise another Golgotha, I cannot tell. But I am faint, my gashes cry for help."
+		},
+		{
+			"speaker": "duncan",
+			"dialog": "So well thy words become thee as thy wounds; They smack of honour both. Go get him surgeons. Who comes here?",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "malcolm",
+			"dialog": "The worthy thane of Ross.",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "lennox",
+			"dialog": "What a haste looks through his eyes! So should he look That seems to speak things strange.",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "ross",
+			"dialog": "God save the king!",
+			"newSpeaker": "true"
+		}
+	]
+]
